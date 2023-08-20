@@ -1,0 +1,19 @@
+{
+  "name": "cypressjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "log-symbols": "^5.1.0",
+    "ramda": "^0.29.0"
+  }
+}
